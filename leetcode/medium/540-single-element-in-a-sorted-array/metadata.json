@@ -1,0 +1,23 @@
+{
+  "title": "Single Element in a Sorted Array",
+  "titleSlug": "single-element-in-a-sorted-array",
+  "frontendQuestionId": "540",
+  "leetcodeUrl": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-24T15:28:01.159Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-24T15:28:03.355Z"
+}
