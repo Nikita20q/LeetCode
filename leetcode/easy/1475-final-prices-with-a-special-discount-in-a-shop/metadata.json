@@ -1,0 +1,24 @@
+{
+  "title": "Final Prices With a Special Discount in a Shop",
+  "titleSlug": "final-prices-with-a-special-discount-in-a-shop",
+  "frontendQuestionId": "1475",
+  "leetcodeUrl": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-24T20:01:36.156Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-24T20:01:43.252Z"
+}
