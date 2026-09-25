@@ -1,0 +1,25 @@
+{
+  "title": "Car Fleet",
+  "titleSlug": "car-fleet",
+  "frontendQuestionId": "853",
+  "leetcodeUrl": "https://leetcode.com/problems/car-fleet/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Sorting",
+    "Monotonic Stack"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-25T14:12:07.332Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "HINT",
+  "helpLabel": "Needed hint",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-25T14:12:11.624Z"
+}
