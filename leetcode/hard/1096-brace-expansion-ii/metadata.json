@@ -1,0 +1,27 @@
+{
+  "title": "Brace Expansion II",
+  "titleSlug": "brace-expansion-ii",
+  "frontendQuestionId": "1096",
+  "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Backtracking",
+    "Stack",
+    "Breadth-First Search",
+    "Sorting"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-25T12:23:33.615Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-25T12:23:35.722Z"
+}
