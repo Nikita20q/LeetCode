@@ -1,0 +1,19 @@
+date
+            if (!isRepeated(str2, candidate)) continue;
+
+            return candidate; // первая найденная — максимальная
+        }
+        return "";
+    }
+
+    // Проверяет, состоит ли s из повторений pattern
+    private boolean isRepeated(String s, String pattern) {
+        int pLen = pattern.length();
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) != pattern.charAt(i % pLen)) {
+                return false;
+            }
+        }
+        return true;
+    }
+}

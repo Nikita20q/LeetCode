@@ -1,0 +1,25 @@
+{
+  "title": "Greatest Common Divisor of Strings",
+  "titleSlug": "greatest-common-divisor-of-strings",
+  "frontendQuestionId": "1071",
+  "leetcodeUrl": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-27T13:17:02.718Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "EXTERNAL",
+  "helpLabel": "Used external help",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-27T13:17:09.130Z"
+}
