@@ -1,0 +1,22 @@
+{
+  "title": "Kids With the Greatest Number of Candies",
+  "titleSlug": "kids-with-the-greatest-number-of-candies",
+  "frontendQuestionId": "1431",
+  "leetcodeUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-27T16:06:31.521Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-27T16:06:34.297Z"
+}
