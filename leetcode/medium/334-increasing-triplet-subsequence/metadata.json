@@ -1,0 +1,24 @@
+{
+  "title": "Increasing Triplet Subsequence",
+  "titleSlug": "increasing-triplet-subsequence",
+  "frontendQuestionId": "334",
+  "leetcodeUrl": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Longest Increasing Subsequence"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-27T16:51:04.813Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "EDITORIAL",
+  "helpLabel": "Used editorial",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-27T16:51:11.379Z"
+}
