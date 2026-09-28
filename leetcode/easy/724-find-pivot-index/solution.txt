@@ -1,0 +1,17 @@
+class Solution {
+    public int pivotIndex(int[] nums) {
+        long[] sufix = new long[nums.length];
+        sufix[nums.length - 1] = (long)nums[nums.length - 1];
+        long prefix = 0;
+        
+        for (int i = nums.length - 2; i >= 0; i --) {
+            sufix[i] = sufix[i + 1] + (long)nums[i];
+        }
+
+        for (int i = 0; i < nums.length; i ++) {
+            if (prefix == (sufix[i] - (long)nums[i])) return i;
+            prefix += (long)nums[i];
+        }
+        return -1;
+    }
+}
