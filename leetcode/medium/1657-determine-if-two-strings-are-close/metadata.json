@@ -1,0 +1,25 @@
+{
+  "title": "Determine if Two Strings Are Close",
+  "titleSlug": "determine-if-two-strings-are-close",
+  "frontendQuestionId": "1657",
+  "leetcodeUrl": "https://leetcode.com/problems/determine-if-two-strings-are-close/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sorting",
+    "Counting"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-28T21:54:02.324Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-28T21:54:04.127Z"
+}
