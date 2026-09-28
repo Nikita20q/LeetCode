@@ -1,0 +1,23 @@
+{
+  "title": "Unique Number of Occurrences",
+  "titleSlug": "unique-number-of-occurrences",
+  "frontendQuestionId": "1207",
+  "leetcodeUrl": "https://leetcode.com/problems/unique-number-of-occurrences/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-28T19:59:08.666Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-28T19:59:12.828Z"
+}
