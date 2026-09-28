@@ -1,0 +1,30 @@
+class Solution {
+    public String reverseVowels(String s) {
+        int p1 = 0;
+        int p2 = s.length() - 1;
+        Set<Character> vof = Set.of('e', 'i', 'o', 'a', 'u');
+        char[] res = new char[s.length()];
+        
+        while (p1 <= p2) {
+            char c1 = s.charAt(p1);
+            char c2 = s.charAt(p2);
+            boolean isVowel1 = vof.contains(Character.toLowerCase(c1));
+            boolean isVowel2 = vof.contains(Character.toLowerCase(c2));
+            
+            if (isVowel1 && isVowel2) {
+                res[p1] = c2;
+                res[p2] = c1;
+                p1++;
+                p2--;
+            } else if (!isVowel1) {
+                res[p1] = c1;
+                p1++;
+            } else {
+                res[p2] = c2;
+                p2--;
+            }
+        }
+        
+        return new String(res);
+    }
+}
