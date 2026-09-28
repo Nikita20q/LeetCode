@@ -1,0 +1,23 @@
+{
+  "title": "String Compression",
+  "titleSlug": "string-compression",
+  "frontendQuestionId": "443",
+  "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-28T12:19:26.426Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-28T12:19:29.997Z"
+}

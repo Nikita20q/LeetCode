@@ -1,0 +1,20 @@
+class Solution {
+    public int compress(char[] chars) {
+        int l = 0;
+        for (int r = 0; r < chars.length;) {
+            char letter = chars[r];
+            int counter = 0;
+            while (r < chars.length && chars[r] == letter) {
+                r++;
+                counter ++;
+            }
+            chars[l++] = letter;
+            if (counter < 2) continue;
+
+            for (char c : String.valueOf(counter).toCharArray()) {
+                chars[l++] = c;
+            }
+        }
+        return l;
+    }
+}
