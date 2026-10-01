@@ -1,0 +1,21 @@
+class Solution {
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+        Map<Character, Character> chars = Map.of(
+            ')' , '(',
+            '}' , '{',
+            ']' , '['
+        );
+        for (int i = 0; i < s.length(); i ++) {
+            char curChar = s.charAt(i);
+            if (!chars.containsKey(curChar)) {
+                stack.push(curChar);
+            } else if (!stack.isEmpty() && stack.peek() == chars.get(curChar)) {
+                stack.pop();
+            } else {
+                return false;
+            }
+        }
+        return stack.size() == 0;
+    }
+}
