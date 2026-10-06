@@ -1,0 +1,11 @@
+class Solution {
+    public boolean isMonotonic(int[] nums) {
+        boolean up = true;
+        boolean down = true;
+        for (int i = 1; i < nums.length; i ++) {
+            up = nums[i] >= nums[i - 1] ? up : false;
+            down = nums[i] <= nums[i - 1] ? down : false;
+        }
+        return up || down;
+    }
+}
