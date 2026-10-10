@@ -1,0 +1,25 @@
+{
+  "title": "Validate Binary Search Tree",
+  "titleSlug": "validate-binary-search-tree",
+  "frontendQuestionId": "98",
+  "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-10T20:33:04.263Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "HINT",
+  "helpLabel": "Needed hint",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-10T20:33:58.493Z"
+}
