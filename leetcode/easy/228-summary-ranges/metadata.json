@@ -1,0 +1,22 @@
+{
+  "title": "Summary Ranges",
+  "titleSlug": "summary-ranges",
+  "frontendQuestionId": "228",
+  "leetcodeUrl": "https://leetcode.com/problems/summary-ranges/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-22T16:02:34.850Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "EDITORIAL",
+  "helpLabel": "Used editorial",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-22T16:02:41.620Z"
+}
